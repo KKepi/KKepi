@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting my software engineering degree
+- 🌱 I’m currently learning python and its libraries
+- 🔭 I’m currently working on PYSIMPLEGUI library
+
+
+
 <!--
 **KKepi/KKepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
