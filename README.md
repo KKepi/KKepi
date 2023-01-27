@@ -1,8 +1,6 @@
-### Hi there 👋
+### ......
 
-- 🔭 I’m currently working on getting my software engineering degree
-- 🌱 I’m currently learning python and its libraries
-- 🔭 I’m currently working on PYSIMPLEGUI library
+- learning python and its libraries
 
 
 
